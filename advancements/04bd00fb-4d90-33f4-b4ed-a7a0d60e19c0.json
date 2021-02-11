@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2021-02-11 22:16:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-01 20:21:21 +0800"
@@ -266,7 +272,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2021-02-01 20:36:24 +0800",
+      "cooked_beef": "2021-02-11 22:23:22 +0800",
       "baked_potato": "2020-12-31 20:43:17 +0800",
+      "apple": "2021-02-11 21:37:59 +0800",
+      "cooked_cod": "2021-02-11 22:07:17 +0800",
       "bread": "2021-02-01 19:58:34 +0800",
       "rotten_flesh": "2020-12-31 20:42:59 +0800",
       "cooked_rabbit": "2021-02-01 20:24:05 +0800",
@@ -639,7 +648,9 @@
       "zombie_pigman": "2020-12-31 21:00:05 +0800",
       "zombie_villager": "2021-02-01 21:15:48 +0800",
       "skeleton": "2020-12-31 20:42:26 +0800",
+      "husk": "2021-02-11 21:56:40 +0800",
       "zombie": "2020-12-31 20:42:25 +0800",
+      "silverfish": "2021-02-11 21:34:21 +0800",
       "witch": "2020-12-31 21:49:48 +0800",
       "spider": "2020-12-31 21:27:59 +0800",
       "creeper": "2021-02-01 22:00:14 +0800"
@@ -913,6 +924,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-12-31 21:00:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2021-02-11 21:50:49 +0800"
     },
     "done": true
   },
